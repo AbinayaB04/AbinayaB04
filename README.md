@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abinaya B</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abinayab04&label=Profile%20views&color=0e75b6&style=flat" alt="abinayab04" /> </p>
 
 - 📫 How to reach me **babinayakk@gmail.com**
 
